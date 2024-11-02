@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-style: sans-serif;
+}
+
+#blue-text{
+    color:blue;
+    font-size: 36px;
+}
+
+.medium-title{
+    font-size: 24px;
+}
+
+#neon{
+    font-weight: bold;
+    background-color: hsl(120, 73%, 75%);
+}
